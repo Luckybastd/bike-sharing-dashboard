@@ -66,7 +66,6 @@ min_date = day_df["dteday"].min()
 max_date = day_df["dteday"].max()
 
 with st.sidebar:
-    st.image("https://github.com/dicodingacademy/assets/raw/main/logo.png")
     
     try:
         start_date, end_date = st.date_input(
@@ -197,3 +196,4 @@ with tab3:
     """)
 
 st.caption('Copyright (c) Jonatan 2025')
+
