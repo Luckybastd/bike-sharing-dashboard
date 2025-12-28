@@ -24,7 +24,7 @@ Jika Anda ingin menjalankan dashboard ini di komputer lokal, ikuti langkah-langk
 
 1.  **Clone Repository ini**
     ```bash
-    git clone [https://github.com/](https://github.com/)Luckybastd/bike-sharing-dashboard.git
+    git clone [https://github.com/Luckybastd/bike-sharing-dashboard.git](https://github.com/Luckybastd/bike-sharing-dashboard.git)
     ```
 
 2.  **Masuk ke Direktori Proyek**
@@ -56,4 +56,4 @@ Berdasarkan hasil analisis data, diperoleh kesimpulan sebagai berikut:
 
 ## 🔗 Tautan Dashboard
 Dashboard hasil deployment dapat diakses melalui tautan berikut:
-👉 **[Klik di sini untuk melihat Dashboard Streamlit](MASUKKAN_LINK_STREAMLIT_ANDA_DISINI)**
+👉 **[Klik di sini untuk melihat Dashboard Streamlit](https://bike-sharing-dashboard.streamlit.app/)**
