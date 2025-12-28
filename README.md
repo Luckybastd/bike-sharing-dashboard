@@ -56,4 +56,4 @@ Berdasarkan hasil analisis data, diperoleh kesimpulan sebagai berikut:
 
 ## 🔗 Tautan Dashboard
 Dashboard hasil deployment dapat diakses melalui tautan berikut:
-👉 **[Klik di sini untuk melihat Dashboard Streamlit](https://bike-sharing-dashboard.streamlit.app/)**
+👉 **[Klik di sini untuk melihat Dashboard Streamlit]([https://bike-sharing-dashboard.streamlit.app/](https://bike-sharing-dashboard-jonatan.streamlit.app/))**
